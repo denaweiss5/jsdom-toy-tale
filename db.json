@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 2,
@@ -47,6 +47,48 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Dena",
+      "image": "https://media.giphy.com/media/uPfQ6fw0WxHd1zA90x/giphy.gif",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Dena",
+      "image": "https://media.giphy.com/media/uPfQ6fw0WxHd1zA90x/giphy.gif",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Dena",
+      "image": "https://media.giphy.com/media/uPfQ6fw0WxHd1zA90x/giphy.gif",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Dena",
+      "image": "https://media.giphy.com/media/uPfQ6fw0WxHd1zA90x/giphy.gif",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Dena",
+      "image": "https://media.giphy.com/media/uPfQ6fw0WxHd1zA90x/giphy.gif",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Dora",
+      "image": "https://www.google.com/search?q=cartoon+image&rlz=1C5CHFA_enUS913US913&sxsrf=ALeKk00iHLs5fdvkPV-pGCI5jlQ_IrLzDA:1608059258916&tbm=isch&source=iu&ictx=1&fir=w26JHgHQ_Cm2iM%252CZD7MRrovMIwj2M%252C_&vet=1&usg=AI4_-kSHw3FrkNJ7LstwBPRbekqpSO04Ag&sa=X&ved=2ahUKEwi-3Z7H19DtAhWPLs0KHTkrCuEQ9QF6BAgLEAE#imgrc=w26JHgHQ_Cm2iM",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Dora",
+      "image": "https://cdn.pixabay.com/photo/2018/04/13/11/52/girl-3316342_1280.jpg",
+      "likes": 0,
+      "id": 15
     }
   ]
 }
